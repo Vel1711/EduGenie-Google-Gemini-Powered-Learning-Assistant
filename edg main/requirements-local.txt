@@ -1,0 +1,5 @@
+# Optional local explanation model support.
+# Install this only if you want LaMini-Flan-T5-783M locally.
+torch>=2.2
+transformers>=4.45
+sentencepiece>=0.2
